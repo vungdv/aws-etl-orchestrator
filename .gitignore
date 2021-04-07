@@ -75,6 +75,6 @@ notebook
 
 # Python Virtual Environment
 venv
-
+.env
 # Copy of customized configuration files
 config-copy

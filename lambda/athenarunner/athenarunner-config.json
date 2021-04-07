@@ -1,5 +1,5 @@
 {
-  "sfn_activity_arn": "arn:aws:states:us-east-1:074599006431:activity:AthenaRunnerActivity",
+  "sfn_activity_arn": "arn:aws:states:ap-southeast-1:794307790883:activity:AthenaRunnerActivity",
   "sfn_worker_name": "athenarunner",
   "ddb_table": "AthenaRunnerActiveJobs",
   "ddb_query_limit": 50,

@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "ArtifactBucketName",
-    "ParameterValue": "<NO-DEFAULT>"
+    "ParameterValue": "sfn-artifacts"
   },
   {
     "ParameterKey": "ETLScriptsPrefix",
@@ -9,7 +9,7 @@
   },
   {
     "ParameterKey": "DataBucketName",
-    "ParameterValue": "<NO-DEFAULT>"
+    "ParameterValue": "sfn-glue-data"
   },
   {
     "ParameterKey": "ETLOutputPrefix",

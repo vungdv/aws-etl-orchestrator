@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "ArtifactBucketName",
-    "ParameterValue": "<NO-DEFAULT>"
+    "ParameterValue": "sfn-artifacts"
   },
   {
     "ParameterKey": "LambdaSourceS3Key",
